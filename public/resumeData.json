@@ -1,0 +1,131 @@
+{
+  "main": {
+    "name":"Brenson Whorley",
+    "occupation":"Web Developer",
+    "description":"",
+    "image":"ProPic17.jpg",
+    "bio":"22 year old Apostolic/Pentecostal young man who loves God and learning new things. I work on front-end UX/UI web pages",
+    "contactmessage":"Contact Us",
+    "email": "brensonw300@gmail.com",
+    "phone": "(775) 301-2979",
+    "address":{
+      "city":"Carson City",
+      "state":"Nevada",
+      "zip": "89705"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/brenson.whorley/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/BrensonW",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/BrensonW/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/brenson.w/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/BrensonW",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Nevada Virtual Academy (NVVA)",
+        "degree":"High School Diploma",
+        "graduated":"2017",
+        "description":""
+      },
+      {
+        "school":"Lambda School",
+        "degree":"Full-Stack Web Developer",
+        "graduated":"2021",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Mcdonald's",
+        "title":"Shift Manager",
+        "years":"2.5 year's",
+        "description":"Lead a team to continually move customers through the line, corrected mistakes, completed safty checklist."
+      },
+      {
+        "company":"Burlington",
+        "title":"Reciever/Stocker",
+        "years":"7 months's",
+        "description":"Sorted boxes into carts for specific area and then stocked shelfs with items."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Expat Journal, Node.JS Portion",
+        "category":"",
+        "image":"node-pic.png",
+        "url":"https://skratpat.vercel.app/"
+      },
+      {
+        "title":"User-Interface and Git Sprint",
+        "category":"",
+        "image":"colors-pic.png",
+        "url":"https://nostalgic-brown-5cc16e.netlify.app/"
+      },
+      {
+        "title":"Learning To Code",
+        "category":"",
+        "image":"code-pic.jpg",
+        "url":"https://codepen.io/BrensonW/pen/poyoopQ"
+      },
+      {
+        "title":"React Github User-Card",
+        "category":"",
+        "image":"githublogo.png",
+        "url":"https://react-github-user-card-ecru-eight.vercel.app/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Brenson has a great design aspect and delivers beautiful work.",
+        "user":"Anyonymous"
+      }
+    ]
+  }
+}
